@@ -1,0 +1,7 @@
+- hw 1 https://contest.yandex.ru/contest/75228
+- hw 2 https://contest.yandex.ru/contest/75229
+- hw 3 https://contest.yandex.ru/contest/75230
+- hw 4 https://contest.yandex.ru/contest/75231
+- hw 5 https://contest.yandex.ru/contest/75232
+- hw 6 https://contest.yandex.ru/contest/75233
+- hw 7 https://contest.yandex.ru/contest/75234
