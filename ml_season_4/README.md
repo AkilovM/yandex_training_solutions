@@ -1,0 +1,4 @@
+- week 1 https://contest.yandex.ru/contest/79889
+- week 2 https://contest.yandex.ru/contest/79890
+- week 3 https://contest.yandex.ru/contest/79891
+- week 4 https://contest.yandex.ru/contest/79892
